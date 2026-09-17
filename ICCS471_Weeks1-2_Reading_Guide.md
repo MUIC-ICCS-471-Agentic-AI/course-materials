@@ -61,7 +61,7 @@ Do not treat Agent mode as an automatic choice. Choose the mode that matches wha
 ## 3. Instructor reading: From Request to Evidence
 
 **Time: 12–15 minutes**  
-**Reading:** [From Request to Evidence](./ICCS471_Reading_From_Request_to_Evidence.md) (also posted with this guide; if the relative link does not open in Google Classroom, open that file directly).
+**Reading:** https://github.com/MUIC-ICCS-471-Agentic-AI/course-materials/blob/main/ICCS471_Week1_Reading_From_Request_to_Evidence.md (also posted with this guide; if the relative link does not open in Google Classroom, open that file directly).
 
 This reading connects Week 1 to Week 2. It introduces:
 
